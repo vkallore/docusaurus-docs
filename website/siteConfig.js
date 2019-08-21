@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Docusaurus testing - vKallore', // Title for your website.
   tagline: 'A website for testing Docusaurus',
   url: 'https://vkallore.github.io', // Your website URL
-  baseUrl: '/docusaurus-docs/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // Used for publishing and more
   projectName: 'docusaurus-docs',
   organizationName: 'vkallore',

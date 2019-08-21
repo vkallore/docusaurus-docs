@@ -3,4 +3,4 @@ id: index
 title: Docs
 ---
 
-Docs index
+Docs index updated!
