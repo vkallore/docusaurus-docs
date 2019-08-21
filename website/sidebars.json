@@ -1,13 +1,19 @@
 {
   "docs": {
     "Docs": [
-      "index"
+      "index",
+      {
+        "type": "subcategory",
+        "label": "Admin Panel",
+        "ids": ["admin-panel", "doc2"]
+      }
     ],
-    "Admin Panel": [
-      "admin-panel"
-    ],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Test": [
+      {
+        "type": "subcategory",
+        "ids": ["doc3"]
+      }
+    ]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

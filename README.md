@@ -68,3 +68,30 @@ http://localhost:3000/docs/next/admin-panel # Changed content
 http://localhost:3000/docs/ # 1.0.0
 http://localhost:3000/docs/next # Changed content
 ```
+
+## Sidebar Links
+
+You can manage the sidebar content with sub menus. [More](https://docusaurus.io/docs/en/navigation)
+
+```
+{
+  "docs": {
+    "Docs": [
+      "index",
+      {
+        "type": "subcategory",
+        "label": "Admin Panel",
+        "ids": ["admin-panel", "doc2"]
+      }
+    ],
+    "Test": [
+      {
+        "type": "subcategory",
+        "ids": ["doc3"]
+      }
+    ]
+  }
+}
+```
+
+Do not repeat any `ID` in the sidebar tree as it will not work as you expect.
