@@ -1,6 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
+    "Admin Panel": [
+      "adminPanel"
+    ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
   },
