@@ -1,5 +1,5 @@
 ---
-id: adminPanel
+id: admin-panel
 title: Latin-ish
 sidebar_label: Admin Panel
 ---

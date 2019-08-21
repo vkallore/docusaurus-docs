@@ -1,7 +1,10 @@
 {
   "docs": {
+    "Docs": [
+      "index"
+    ],
     "Admin Panel": [
-      "adminPanel"
+      "admin-panel"
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
